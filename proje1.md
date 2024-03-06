@@ -2,4 +2,4 @@
 kdlfd
 ## alt başlık
 djafha
-![github](github (1).png)
+![github](img/github%20(1).png)
